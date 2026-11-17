@@ -1,6 +1,7 @@
 # PostgreSQL Student CRUD
 
-**Video:** TODO: Insert demonstration link (maximum 5 minutes).
+**Video:** [demo link](https://youtu.be/zZcRPWutqD0)
+https://youtu.be/zZcRPWutqD0
 
 ## Setup and run
 
